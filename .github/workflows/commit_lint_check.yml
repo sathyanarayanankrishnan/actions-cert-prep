@@ -1,0 +1,3 @@
+name: check_commit_lint
+  on push
+  runs-on: ubuntu-latest 
